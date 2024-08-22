@@ -10,3 +10,5 @@ Author : Prince Manuel
 
 4. Attachments (Image, Audio, Video) Code
 
+5. Code for Hiding the last seen
+
